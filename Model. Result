@@ -1,1 +1,15 @@
+# The most popular tools we used to implement CNNs, offering a high level of abstraction and GPU support:
 
+TensorFlow (with Keras)
+
+Overview: TensorFlow is an open-source deep learning framework developed by Google. Keras, a high-level API, is integrated with TensorFlow, making it easy to build and train CNN models.
+
+Usage: TensorFlow is widely used for CNNs due to its flexibility and support for both research and production.
+
+Features:
+
+Pre-built layers for CNNs (Conv2D, MaxPooling2D, etc.).
+
+Model training, evaluation, and prediction functions.
+
+GPU acceleration for faster computation.
